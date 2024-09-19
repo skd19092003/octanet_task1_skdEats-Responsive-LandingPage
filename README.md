@@ -1,2 +1,2 @@
-# octanet_task1_skdEats-Responsive-LandingPage
+# skdEats-Responsive-LandingPage
  LANDING FOOD PAGE
